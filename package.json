@@ -1,0 +1,24 @@
+{
+  "name": "@hero-page/hero-math-functions",
+  "version": "1.0.0",
+  "description": "A set of mathematical functions for performing basic arithmetic operations, finding the min/max value in an array, and calculating mean, median, and mode",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {},
+  "keywords": [
+    "math",
+    "arithmetic",
+    "operations",
+    "min",
+    "max",
+    "mean",
+    "median",
+    "mode",
+    "arrays"
+  ],
+  "author": "Sam Chahine",
+  "license": "MIT",
+  "dependencies": {}
+}
